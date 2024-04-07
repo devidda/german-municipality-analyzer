@@ -1,4 +1,4 @@
-# AI-FFPV Attitude Identifier
+# GAI-based FFPV Attitude Identifier
 
 This project is a part of the bachelor degree thesis in Computer Science at IU Internationale University. The thesis is developed by David Kort under the supervision of M. Hemmer. The software is a methodical tool developed for the task of identifying the stance of municipal planning carriers on ground-mounted photovoltaic systems in Germany. It was created in partnership with [Nefino](https://www.nefino.de/).
 
