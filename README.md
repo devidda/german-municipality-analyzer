@@ -1,3 +1,7 @@
+# Thesis Info: Please open [/output/analysis_results.csv](https://github.com/devidda/german-municipality-analyzer/blob/78bbc98ec95c725ca856dca8bd5753aba96ad95d/output/analysis_results.csv) for the results!
+
+---
+
 # GAI-based FFPV Attitude Identifier
 
 This project is a part of the bachelor degree thesis in Computer Science at IU Internationale University. The thesis is developed by David Kort under the supervision of M. Hemmer. The software is a methodical tool developed for the task of identifying the stance of municipal planning carriers on ground-mounted photovoltaic systems in Germany. It was created in partnership with [Nefino](https://www.nefino.de/).
